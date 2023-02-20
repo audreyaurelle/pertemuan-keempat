@@ -1,0 +1,61 @@
+body {
+    background-color: beige;
+}
+.hello {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+
+.box {
+    background: aquamarine;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: blueviolet;
+    border-style: dashed;
+    padding: 10px;
+}
+
+.box2 {
+    background: aquamarine;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: darkgreen;
+    border-style: dashed;
+    padding: 10px;
+}
+
+.container2 {
+    display: flex;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    background-color: goldenrod;
+}
+
+.box3{
+    width: 100px;
+    height: 150px;
+    background: darkolivegreen;
+}
+
+.box4{
+    width: 150px;
+    height: 100px;
+    background: sienna;
+}
+
